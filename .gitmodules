@@ -1,0 +1,3 @@
+[submodule "source/przeglad/wydajnosc"]
+	path = source/przeglad/wydajnosc
+	url = git@github.com:sajmon337/wydajnosc.git
