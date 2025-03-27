@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.3.5)  27 MAR 2025 09:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.3.5)  27 MAR 2025 10:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -868,28 +868,32 @@ LaTeX Font Info:    Trying to load font information for T1+txtt on input line 9
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
 File: t1txtt.fd 2000/12/15 v3.1
-) (./wydajnosc.ind)
-[1] (./wydajnosc.aux)
+) [1] [2
+
+]
+Rozdzia\l  1.
+(./wydajnosc.ind) [3] (./wydajnosc.aux)
 Package rerunfilecheck Info: File `wydajnosc.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: BA7359BC291BEFDBFD8C8FC9D65DCE7C;71.
  ) 
 Here is how much of TeX's memory you used:
- 19953 strings out of 476091
- 360492 string characters out of 5794082
- 1851330 words of memory out of 5000000
- 39948 multiletter control sequences out of 15000+600000
- 546419 words of font info for 58 fonts, out of 8000000 for 9000
+ 19965 strings out of 476091
+ 360666 string characters out of 5794082
+ 1852330 words of memory out of 5000000
+ 39954 multiletter control sequences out of 15000+600000
+ 552263 words of font info for 60 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  72i,11n,83p,1198b,514s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/share/texmf/fonts/t
 ype1/public/tex-gyre/qhvb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhv
 bi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></usr/share/texmf
-/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/txfonts/t1xtt.pfb>
-Output written on wydajnosc.pdf (5 pages, 87442 bytes).
+/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf/fonts/type1/public/tex-
+gyre/qtmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.p
+fb>
+Output written on wydajnosc.pdf (7 pages, 111027 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 78 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 29 words of extra memory for PDF output out of 10000 (max. 10000000)
 

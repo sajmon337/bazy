@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex wydajnosc.idx"] 1743065215 "wydajnosc.idx" "wydajnosc.ind" "wydajnosc" 1743065216 0
-  "wydajnosc.idx" 1743065216 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex wydajnosc.idx"] 1743065215 "wydajnosc.idx" "wydajnosc.ind" "wydajnosc" 1743068797 0
+  "wydajnosc.idx" 1743068797 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "wydajnosc.ilg"
   "wydajnosc.ind"
   (rewritten before read)
-["pdflatex"] 1743065215 "wydajnosc.tex" "wydajnosc.pdf" "wydajnosc" 1743065216 0
+["pdflatex"] 1743068796 "wydajnosc.tex" "wydajnosc.pdf" "wydajnosc" 1743068797 0
   "/etc/texmf/web2c/texmf.cnf" 1741172129 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1136768653 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
@@ -126,10 +126,12 @@
   "/usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qhvb.tfm" 1480098718 11796 b7bc3db132e822d2872ea50ba8fa7cc0 ""
   "/usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qhvbi.tfm" 1480098718 12396 e65c2800bb94ee6ae6e4fdf18f68fa2e ""
   "/usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qhvr.tfm" 1480098718 12084 374c5b7e91efcc10472ab8e61f66d36b ""
+  "/usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qtmb.tfm" 1480098718 11484 431d8013ae6931f9326b9a0f492d2a5e ""
   "/usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qtmr.tfm" 1480098718 11504 0b76b46eb90907e684139293e03c466a ""
   "/usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb" 1480098745 112164 176018dd42fcc60204173fa10e357da5 ""
   "/usr/share/texmf/fonts/type1/public/tex-gyre/qhvbi.pfb" 1480098745 104926 77ce2f0433ac7fd33dbe9968d127e4fb ""
   "/usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb" 1480098745 110045 c159829aa6d7d99f1777bb40c90b8157 ""
+  "/usr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb" 1480098745 131776 4be3e220f990dc716f91bb7965c09237 ""
   "/usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb" 1480098745 133302 8dca243a80ecf4cfe00077d4bd995bd7 ""
   "/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd" 1480098840 2378 01e898189bf06467f2f6fe33decbff09 ""
   "/usr/share/texmf/tex/latex/tex-gyre/t1qtm.fd" 1480098840 1638 7cc855d1dc7c12c1858f209a4ef88c4a ""
@@ -139,7 +141,7 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1741172172 4623455 fa0568a71dd9a288d6c226ee477506c6 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1741172193 7880850 0233b3006b2707a47adfdb4c80e732d3 ""
   "sphinx.sty" 1743064348 54203 ee7fe875437470f5328ee20661bb9f1d ""
-  "sphinxhighlight.sty" 1743065214 7553 83fb52292c17957d9f4aadcb28c57a87 ""
+  "sphinxhighlight.sty" 1743068796 7553 83fb52292c17957d9f4aadcb28c57a87 ""
   "sphinxlatexadmonitions.sty" 1743064348 19111 5e67a0f91439018bceb7cadf319345e6 ""
   "sphinxlatexcontainers.sty" 1743064348 900 d61f923db071a7b54d3cee8a1e6935d3 ""
   "sphinxlatexgraphics.sty" 1743064348 4918 c9266041d02bc615d54b890e96e3acd3 ""
@@ -154,16 +156,16 @@
   "sphinxlatexstyletext.sty" 1743064348 6759 9e932c65374cfb62686485d331bc975c ""
   "sphinxlatextables.sty" 1743064348 57643 7f1013c2fa11942370d867527bdda568 ""
   "sphinxmanual.cls" 1743064348 4241 7b0d7a37df7b5715fb0dbd585c52ecdb ""
-  "sphinxmessages.sty" 1743065214 743 31c217da39d039fd875c9cfed0d1a0d3 ""
+  "sphinxmessages.sty" 1743068796 743 31c217da39d039fd875c9cfed0d1a0d3 ""
   "sphinxoptionsgeometry.sty" 1743064348 2060 6c27b3eba37bde592ae8908ab2c1ac0f ""
   "sphinxoptionshyperref.sty" 1743064348 1093 e468489bae7631a7f387b4b0f7bc15d4 ""
   "sphinxpackageboxes.sty" 1743064348 36106 1be2053eb1cb9b083b3a75e3657bcb24 ""
   "sphinxpackagefootnote.sty" 1743064348 15330 2fb656b6ce8cd1f6aba2d1c508fb51e5 ""
-  "wydajnosc.aux" 1743065216 698 ff83b55cb65a57a51866bc06c8192e25 "pdflatex"
+  "wydajnosc.aux" 1743068797 1018 90394131c91590d6f5c971a8e4934005 "pdflatex"
   "wydajnosc.ind" 1743065215 0 d41d8cd98f00b204e9800998ecf8427e "makeindex wydajnosc.idx"
-  "wydajnosc.out" 1743065216 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "wydajnosc.tex" 1743065214 2502 27ac570f146ac3531c37b2a736c56626 ""
-  "wydajnosc.toc" 1743065216 29 1e1405008ff3f86b64f7d6ea4d45a69d "pdflatex"
+  "wydajnosc.out" 1743068797 71 ba7359bc291befdbfd8c8fc9d65dce7c "pdflatex"
+  "wydajnosc.tex" 1743068796 2674 e3409b7fe6f91ab3e80a8b83f43638c5 ""
+  "wydajnosc.toc" 1743068797 91 2cd6cfe840610615332d5779cc8417ba "pdflatex"
   (generated)
   "wydajnosc.aux"
   "wydajnosc.idx"
